@@ -2,7 +2,7 @@
 Coinwave Bundler Bot ( 5 Axiom Buy + 3 Bloom Buy ) Coinwave Bundler, no bundler flag + SOL distribution bypass any bubblemap
 
 ## Contact me on Telegram to build your own bundler
-<a href="https://t.me/just_ben_venture" target="_blank">
+<a href="https://t.me/sunnra0x0" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
 </a>
 
